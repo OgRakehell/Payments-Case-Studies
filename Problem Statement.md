@@ -15,3 +15,13 @@ Operational dashboards showed:
 - Elevated failure rates for IKEDC compared to other electricity billers
 
 - Spike in null or timeout-related responses during peak hours
+
+### Initial Observations
+
+- Failures were not consistent; some transactions succeeded under identical conditions
+
+- Other billers on the same switch showed lower failure rates
+
+- Most failures occurred during high transaction volume windows
+
+This suggested a partner-specific or integration-specific issue, rather than a core platform outage.
