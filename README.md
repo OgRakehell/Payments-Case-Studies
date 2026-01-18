@@ -38,3 +38,5 @@ This case study typically covers:
 - Product, technical, and process improvements
 
 - Results and key product learnings
+
+I hope you enjoy reading this as much as I did making it!
